@@ -1,25 +1,12 @@
-# Yii 2 Starter Kit
+# Overtime Management system
 
-<!-- BADGES/ -->
+Overtime Calculation Sytem using Yii2, PHP VUE.js and HTML5/CSS3
 
-[![Packagist](https://img.shields.io/packagist/v/trntv/yii2-starter-kit.svg)](https://packagist.org/packages/trntv/yii2-starter-kit)
-[![Packagist](https://img.shields.io/packagist/dt/trntv/yii2-starter-kit.svg)](https://packagist.org/packages/trntv/yii2-starter-kit)
-[![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X7UFA3F3ALPM8 "Donate once-off to this project using Paypal")
-[![Dependency Status](https://www.versioneye.com/php/trntv:yii2-starter-kit/badge.svg)](https://www.versioneye.com/php/trntv:yii2-starter-kit)
-[![Build Status](https://travis-ci.org/trntv/yii2-starter-kit.svg?branch=master)](https://travis-ci.org/trntv/yii2-starter-kit)
+This software is only for official use of AKESP Gilgit Region.
 
-<!-- /BADGES -->
+## Before you start 
 
-This is Yii2 start application template.
-
-It was created and developing as a fast start for building an advanced sites based on Yii2. 
-
-It covers typical use cases for a new project and will help you not to waste your time doing the same work in every project
-
-## Before you start
-Please, consider helping project via [contributions](https://github.com/trntv/yii2-starter-kit/issues) or [donations](#donations). 
-
-## TABLE OF CONTENTS
+<!-- ## TABLE OF CONTENTS
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](docs/installation.md)
@@ -32,16 +19,16 @@ Please, consider helping project via [contributions](https://github.com/trntv/yi
 - [FAQ](docs/faq.md)
 - [How to contribute?](#how-to-contribute)
 - [Donations](#donations)
-- [Have any questions](#have-any-questions)
+- [Have any questions](#have-any-questions) -->
 
-## DEMO
-Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8)
+<!-- ## DEMO
+Demo is hosted by awesome [Digital Ocean](https://m.do.co/c/d7f000191ea8) -->
 
 Frontend:
-http://yii2-starter-kit.terentev.net
+http://localhost/overtime/frontend/web
 
 Backend:
-http://backend.yii2-starter-kit.terentev.net
+http://localhost/overtime/backend/web
 
 `administrator` role account
 ```
@@ -60,10 +47,7 @@ Password: manager
 Login: user
 Password: user
 ```
-## Donations for further development
-- [Bitcoin] (https://www.coinbase.com/checkouts/2f1c1cb31c395e5aaafa1ba70003552e)
-- [WebMoney] (Z110052695454)
-- Other way: [eugene@terentev.net](mailto:eugene@terentev.net)
+
 
 ## FEATURES
 - Beautiful and open source dashboard theme for backend [AdminLTE 2](http://almsaeedstudio.com/AdminLTE)
